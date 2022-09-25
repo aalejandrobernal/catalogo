@@ -11,7 +11,7 @@
 	<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet"> 
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" rel="stylesheet">
 	<script src="https://kit.fontawesome.com/2c36e9b7b1.js"></script>
-	<link rel="stylesheet" href="estilos.css">
+	<link rel="stylesheet" href="css/estilos-peliculas.css">
 	<title>Peliculas-BiblioMovies</title>
 </head>
 <body>
